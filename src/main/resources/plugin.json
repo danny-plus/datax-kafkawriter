@@ -1,0 +1,6 @@
+{
+    "name": "kafkawriter",
+    "class": "ni.danny.datax.plugin.writer.kafkawriter.KafkaWriter",
+    "description": "",
+    "developer": "danny"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "kafkawriter",
+    "parameter": {
+        "column": [{"index":1,"name":"","type":"value/date/const","dateFormat": "","value":""}],
+        "topic": [{"name": "","partition": ""},""],
+        "config": {
+            "bootstap.servers": "",
+             "key.serializer": "",
+             "value.serializer": "",
+             "acks": ""
+        }
+    }
+}
